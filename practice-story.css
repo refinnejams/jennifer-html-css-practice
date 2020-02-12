@@ -1,0 +1,22 @@
+body {
+  font-family:'Times New Roman';
+  font-size: 62.5%;
+}
+
+p, ul, ol, dl {
+  font-size: 1.2rem;
+  line-height: 1.7rem;
+  margin-bottom: 12px;
+}
+
+article {
+  max-width: 620px;
+  margin-right: auto;
+  margin-bottom: 30px;
+  margin-left: auto;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Ubuntu', sans-serif;
+}
+
